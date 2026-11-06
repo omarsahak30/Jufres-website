@@ -1,0 +1,24 @@
+body {
+    color: orange;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: white;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h2 {
+    color: orange;
+}
+
+nav a {
+    color: black;
+}
+
+nav a:hover {
+    color: orange;
+}
