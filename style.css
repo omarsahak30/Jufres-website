@@ -22,3 +22,34 @@ nav a {
 nav a:hover {
     color: orange;
 }
+
+section h1 {
+    color: white;
+}
+
+section p {
+    color: white;
+}
+
+#home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pic1.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    text-justify: center;
+    padding: 250px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+
+#steps h1 {
+    color: black;
+}
+
+#steps p {
+    color: black;
+    text-align: center;
+}
